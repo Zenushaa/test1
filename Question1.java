@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class Question1 {
     public static void main(String[] args) {
+        // Write a Java program to reverse a word provided by the user.
+
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a word here: ");
         String word = scanner.nextLine();
